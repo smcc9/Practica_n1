@@ -7,10 +7,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Victor
- */
+
 @WebServlet(name = "JuegoDados", urlPatterns = {"/JuegoDados"})
 public class JuegoDados extends HttpServlet {
 
