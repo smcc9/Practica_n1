@@ -1,8 +1,8 @@
 # Practica1
 Practica # 1 JSP y Servlets
 
-Nombre : Titirico Siñani Victor Hugo
+Nombre : CHUQUIMIA CHAMBI SELVA MARIA
 
 Materia : EMERGENTES II 
 
-Fecha: 15/09/2020
+Fecha: 04/10/2020
